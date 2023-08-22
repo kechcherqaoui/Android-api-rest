@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IPFinder</string>
+    <string name="find">find</string>
+    <string name="ip_to_find">ip to find</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+</resources>
